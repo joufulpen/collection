@@ -10,3 +10,8 @@ sort|js排序算法的文章|[js十大排序算法详解](https://www.cnblogs.co
 name|description|link
 --|:--:|--
 vue-cli|关于vue脚手架的一些文章|[vue2.5/vue-cli3.0版本更新引发的一些常见问题](https://segmentfault.com/a/1190000014219426?utm_source=channel-hottest)
+
+## wechat
+name|description|link
+--|:--:|--
+mpvue|mpvue教程资料|[使用Vue开发微信小程序：mpvue框架](https://www.jianshu.com/p/8f779950bfd9)
