@@ -17,3 +17,8 @@ vue-router|vue-router教程|[vue-router 基本使用](https://www.cnblogs.com/Sa
 name|description|link
 --|:--:|--
 mpvue|mpvue教程资料|[使用Vue开发微信小程序：mpvue框架](https://www.jianshu.com/p/8f779950bfd9)
+
+## H5
+name|description|link
+--|:--:|--
+html|关于前端H5的相关文章推荐|[每周为你提供高质量的关于小程序、h5等前端领域的文章和项目](https://github.com/Tnfe/TNFE-Weekly)
