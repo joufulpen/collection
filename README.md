@@ -9,7 +9,7 @@ sort|js排序算法的文章|[js十大排序算法详解](https://www.cnblogs.co
 ## vue
 name|description|link
 --|:--:|--
-vue|收集vue的知识|[vue-引入外部js文件的方法和常量](https://blog.csdn.net/lsy__lsy/article/details/80132966)<br>[Vue3.0数据双向绑定Proxy探究](https://segmentfault.com/a/1190000017397797)
+vue|收集vue的知识|[vue-引入外部js文件的方法和常量](https://blog.csdn.net/lsy__lsy/article/details/80132966)<br>[Vue3.0数据双向绑定Proxy探究](https://segmentfault.com/a/1190000017397797)<br>[vue组件通信](https://juejin.im/post/5d9d386fe51d45784d3f8637)
 vue-cli|关于vue脚手架的一些文章|[vue2.5/vue-cli3.0版本更新引发的一些常见问题](https://segmentfault.com/a/1190000014219426?utm_source=channel-hottest)<br> [让vue-cli3.0 配置简单起来](https://juejin.im/post/5bd02f98e51d457a944b634f)
 vuex|vuex基础教程|[vuex2.0 基本使用](https://www.cnblogs.com/SamWeb/p/6527240.html)
 vue-router|vue-router教程|[vue-router 基本使用](https://www.cnblogs.com/SamWeb/p/6610733.html)
