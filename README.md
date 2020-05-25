@@ -6,6 +6,7 @@ prototype|js原型链的学习资料|[js原型链简单图解](https://www.cnblo
 localtion|window.localtion的学习资料|[window.location各属性含义](https://www.cnblogs.com/AiMuzi/p/6652825.html)
 sort|js排序算法的文章|[js十大排序算法详解](https://www.cnblogs.com/liyongshuai/p/7197962.html)
 js base|js基础知识思维导图|[js基础知识思维导图](https://blog.csdn.net/a790012863/article/details/80145393)
+前端常用工具方法|js前端常用工具方法|[js前端常用工具方法](https://segmentfault.com/a/1190000022736837)
 
 
 ## vue
