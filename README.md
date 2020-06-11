@@ -7,7 +7,7 @@ localtion|window.localtion的学习资料|[window.location各属性含义](https
 sort|js排序算法的文章|[js十大排序算法详解](https://www.cnblogs.com/liyongshuai/p/7197962.html)
 js base|js基础知识思维导图|[js基础知识思维导图](https://blog.csdn.net/a790012863/article/details/80145393)
 前端常用工具方法|js前端常用工具方法|[js前端常用工具方法](https://segmentfault.com/a/1190000022736837)
-js class|关于class的资料|[class](https://blog.csdn.net/lian_bingbing/article/details/95356969)
+js class|关于class的资料|[js中class基本语法](https://blog.csdn.net/lian_bingbing/article/details/95356969)<br>[ES6类（class）的继承（extends）](https://www.jianshu.com/p/012835519c15)
 
 
 ## vue
