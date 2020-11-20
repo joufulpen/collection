@@ -27,3 +27,8 @@ mpvue|mpvue教程资料|[使用Vue开发微信小程序：mpvue框架](https://w
 name|description|link
 --|:--:|--
 html|关于前端H5的相关文章推荐|[每周为你提供高质量的关于小程序、h5等前端领域的文章和项目](https://github.com/Tnfe/TNFE-Weekly)
+
+## webpack
+name | description |link
+--|:--:|--
+webpack|wepack搭建vue项目教程|[手把手 教你一步步--搭建vue脚手架，配置webpack文件](https://www.jianshu.com/p/88c981a977bf)
