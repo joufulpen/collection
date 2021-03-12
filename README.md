@@ -2,7 +2,7 @@
 ## javascript
 name|description|link
 --|:--:|--
-prototype|js原型链的学习资料|[js原型链简单图解](https://www.cnblogs.com/libin-1/p/5820550.html)<br>[Javascript继承机制的设计思想](http://www.ruanyifeng.com/blog/2011/06/designing_ideas_of_inheritance_mechanism_in_javascript.html)
+prototype|js原型链的学习资料|[js原型链简单图解](https://www.cnblogs.com/libin-1/p/5820550.html)<br>[Javascript继承机制的设计思想](http://www.ruanyifeng.com/blog/2011/06/designing_ideas_of_inheritance_mechanism_in_javascript.html)<br>[JavaScript中的原型与原型链](https://segmentfault.com/a/1190000018895543?_ea=9933257)
 localtion|window.localtion的学习资料|[window.location各属性含义](https://www.cnblogs.com/AiMuzi/p/6652825.html)
 sort|js排序算法的文章|[js十大排序算法详解](https://www.cnblogs.com/liyongshuai/p/7197962.html)
 js base|js基础知识思维导图|[js基础知识思维导图](https://blog.csdn.net/a790012863/article/details/80145393)
