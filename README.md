@@ -5,6 +5,7 @@ name|description|link
 prototype|js原型链的学习资料|[js原型链简单图解](https://www.cnblogs.com/libin-1/p/5820550.html)<br>[Javascript继承机制的设计思想](http://www.ruanyifeng.com/blog/2011/06/designing_ideas_of_inheritance_mechanism_in_javascript.html)<br>[JavaScript中的原型与原型链](https://segmentfault.com/a/1190000018895543?_ea=9933257)
 localtion|window.localtion的学习资料|[window.location各属性含义](https://www.cnblogs.com/AiMuzi/p/6652825.html)
 sort|js排序算法的文章|[js十大排序算法详解](https://www.cnblogs.com/liyongshuai/p/7197962.html)
+闭包|js闭包|[js闭包的本质](https://segmentfault.com/a/1190000008397563)
 js base|js基础知识思维导图|[js基础知识思维导图](https://blog.csdn.net/a790012863/article/details/80145393)
 前端常用工具方法|js前端常用工具方法|[js前端常用工具方法](https://segmentfault.com/a/1190000022736837)
 js class|关于class的资料|[js中class基本语法](https://blog.csdn.net/lian_bingbing/article/details/95356969)<br>[ES6类（class）的继承（extends）](https://www.jianshu.com/p/012835519c15)<br>[JavaScript继承理解：ES5继承方式+ES6Class继承对比）](https://segmentfault.com/a/1190000015766680?utm_source=sf-related)<br>[阮一峰的ES6---Class的继承](https://www.imooc.com/article/20618)
