@@ -32,4 +32,4 @@ html|关于前端H5的相关文章推荐|[每周为你提供高质量的关于�
 ## webpack
 name | description |link
 --|:--:|--
-webpack|wepack搭建vue项目教程|[手把手 教你一步步--搭建vue脚手架，配置webpack文件](https://www.jianshu.com/p/88c981a977bf)
+webpack|wepack搭建vue项目教程|[手把手 教你一步步--搭建vue脚手架，配置webpack文件](https://www.jianshu.com/p/88c981a977bf)<br>[webpack5部署vue3商业项目详细流程](https://blog.csdn.net/u013362192/article/details/113622302)
