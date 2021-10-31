@@ -5,6 +5,7 @@ name|description|link
 prototype|js原型链的学习资料|[js原型链简单图解](https://www.cnblogs.com/libin-1/p/5820550.html)<br>[Javascript继承机制的设计思想](http://www.ruanyifeng.com/blog/2011/06/designing_ideas_of_inheritance_mechanism_in_javascript.html)<br>[JavaScript中的原型与原型链](https://segmentfault.com/a/1190000018895543?_ea=9933257)
 localtion|window.localtion的学习资料|[window.location各属性含义](https://www.cnblogs.com/AiMuzi/p/6652825.html)
 sort|js排序算法的文章|[js十大排序算法详解](https://blog.csdn.net/java_2017_csdn/article/details/80194656)
+移动端适配|前端解决移动端适配的五种方法|[前端解决移动端适配的五种方法](https://blog.csdn.net/weixin_37632943/article/details/95471535)
 闭包|js闭包|[js闭包的本质](https://segmentfault.com/a/1190000008397563)
 js base|js基础知识思维导图|[js基础知识思维导图](https://blog.csdn.net/a790012863/article/details/80145393)
 前端常用工具方法|js前端常用工具方法|[js前端常用工具方法](https://segmentfault.com/a/1190000022736837)
